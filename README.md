@@ -6,7 +6,7 @@
 Kode ini dirancang dan dijalankan menggunakan:
 
 - IntelliJ IDEA 2023.3.1 (Community Edition) - Text/Code Editor
-- Edgde Browser
+- Edge Browser
 
 ## Requirements
 
@@ -36,3 +36,7 @@ C:/../IdeaProjects/webautomationjava/src/test/java/Test/ExtractTest.java
 mvn test -Pselenium
 ```
 ## Video Tutorial Running
+
+
+https://github.com/muhammadbisma21/MakeMyTrip-Test/assets/153070381/1b405e30-66c8-4394-bc74-f06aa9f348e8
+
